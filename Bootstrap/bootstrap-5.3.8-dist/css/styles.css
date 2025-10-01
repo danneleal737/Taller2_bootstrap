@@ -1,0 +1,44 @@
+.bordelinea{
+    border: 2px solid rgb(18, 17, 17);
+    background-color: blueviolet;
+}
+.bordelinea2{
+    border: 2px solid rgb(18, 17, 17);
+    background-color: rgb(36, 88, 178);
+    color: white;
+}
+.yelow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.border01{
+    border-radius: 8px;
+}
+.tama{
+    height: 50px;
+}
+
+.img{ 
+    background-image: url(/Imagenes/096bb056-deb9-42bd-a518-579fd86c1880.jpg);
+}
+.img1{
+    color: white;
+    padding: 6px;
+    height: 100px;
+    display: flex;
+    background-size: cover;
+    justify-content: flex-end;
+    flex-direction: column;
+    background:fixed;
+    position: relative;
+    overflow: hidden;
+}
+.img01-content{
+    position: relative;
+    z-index: 2;
+}
